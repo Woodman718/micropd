@@ -1,9 +1,10 @@
 # Welcome to MicroPD
+> MicroPD (https://www.primerbanks.com/) is the largest dedicated PCR-primer resource for microbial detection, offering more than 33,600,000 rigorously evaluated primer pairs that target 10,309,494 functional genes across 36,461 bacterial, 10,430 viral and 342 fungal genomes. By focusing on functional genes (rather than traditional 16S rRNA or ITS regions), MicroPD achieves strain-level specificity and heightened sensitivity in complex mixed samples.
 
 > This document describes the standard workflow for microbial genome annotation, sequence filtering, and gene clustering using Prokka, CD-HIT, and related tools. All software setup, scripts, and command-line operations are included below.
-> MicroPD (https://www.primerbanks.com/) is the largest dedicated PCR-primer resource for microbial detection, offering more than 33,600,000 rigorously evaluated primer pairs that target 10,309,494 functional genes across 36,461 bacterial, 10,430 viral and 342 fungal genomes. By focusing on functional genes (rather than traditional 16S rRNA or ITS regions), MicroPD achieves strain-level specificity and heightened sensitivity in complex mixed samples.
-🚂
-# Standard Version
+
+# 🚂 Standard Version
+
 
 ![Image](Untitled.png)
 ![Image](Untitled%201.png)
