@@ -6,8 +6,8 @@
 # 🚂 Standard Version
 
 
-![Image](Untitled.png)
-![Image](Untitled%201.png)
+![Image](images/Untitled.png)
+![Image](images/Untitled%201.png)
 # Part 1 一 Prologue
 
 软件版本
@@ -32,7 +32,7 @@ blastn: 2.15.0+
 ```
 
 /s1/store91/woodman/jupyter/tzd/test
-![Image](Untitled%202.png)
+![Image](images/Untitled%202.png)
 测试阶段
 
 ```Bash
@@ -144,7 +144,7 @@ parallel -j 8 '
 echo $(date +%F_%H:%M:%S)
 ```
 
-![Image](Untitled%203.png)
+![Image](images/Untitled%203.png)
 
 ## 2.2 ffn+tsv⇒fasta
 
