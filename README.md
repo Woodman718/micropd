@@ -186,32 +186,3 @@ Packages all subdirectories under `temp_fna_taxid/` into `{taxid}.fna.tar.gz` ar
 
 #### 51_generate_6format_taxid_packages.py  
 Generates six downloadable formats (CSV, FAA, FA, FNA, GFF→BED, etc.) by TAXID with missing record alerts.
-
----
-
-✅ **Resulting directory example:**
-```bash
-mate_virus/
-├── bed_taxid/
-├── csv_taxid/
-├── faa_taxid/
-├── fa_taxid/
-├── fna_taxid/
-└── gff_taxid/
-```
-
-Example files:
-```bash
-csv_taxid/
-├── 1000373.csv.gz
-├── 1000646.csv.gz
-└── 1001080.csv.gz
-
-gff_taxid/
-├── 1000373.gff.tar.gz
-└── 1001080.gff.tar.gz
-
-fna_taxid/
-├── 1000373.fna.tar.gz
-└── 1001080.fna.tar.gz
-```
